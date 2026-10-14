@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Header from "./components/Header.jsx";
 import Hero from "./components/Hero.jsx";
 import Work from "./components/Work.jsx";
@@ -24,6 +25,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <SpeedInsights />
     </>
   );
 }
