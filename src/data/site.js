@@ -2,9 +2,9 @@
 // Social links with an empty `href` are hidden automatically, so nothing ships half-working.
 
 export const site = {
-  name: "Ryuzaki",
+  name: "Light",
   role: "Product designer and front-end engineer",
-  email: "hello@ryuzaki.dev", // replace with your real address
+  email: "ryuzakialt189@gmail.com", // replace with your real address
   links: [
     { label: "GitHub", href: "" },
     { label: "LinkedIn", href: "" },
